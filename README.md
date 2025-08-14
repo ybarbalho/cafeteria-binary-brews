@@ -3,7 +3,7 @@
 ## Índice
 
 - [Visão Geral](#visao-geral)
-- [Recursos Trabalhados](#recursos-trabalhados)
+- [Recursos](#recursos)
 - [Links](#links)
 
 ---
@@ -35,8 +35,8 @@ Mais do que um estudo de localização, este projeto mostra como **a análise de
 
 ---
 
-<a id='recursos-trabalhados'></a>
-## Recursos Trabalhados
+<a id='recursos'></a>
+## Recursos
 
 - Análise de dados nos negócios;
 - Inteligência de negócios (BI);
