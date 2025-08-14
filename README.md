@@ -1,6 +1,14 @@
 # Cafeteria Binary Brews ♨️
 
-## Descrição
+## Índice
+
+- [Visão Geral](#visao-geral)
+- [Recursos Trabalhados](#recursos-trabalhados)
+
+---
+
+<a id='visao-geral'></a>
+## Visão Geral
 
 ### Case de Análise: Onde abrir a cafeteria ideal em Los Angeles?
 
@@ -24,12 +32,15 @@ O resultado? **Insights robustos e acionáveis** que não apenas indicam o ponto
 
 Mais do que um estudo de localização, este projeto mostra como **a análise de dados pode transformar uma decisão de negócio em uma aposta calculada**, reduzindo riscos e aumentando as chances de sucesso.
 
-## Recursos
+---
 
-- Análise de dados nos negócios
-- Inteligência de negócios (BI)
-- Habilidades analíticas
-- Analítica preditiva
-- Visualização de dados
-- Análise de dados
-- Análise de negócios
+<a id='recursos-trabalhados'></a>
+## Recursos Trabalhados
+
+- Análise de dados nos negócios;
+- Inteligência de negócios (BI);
+- Habilidades analíticas;
+- Analítica preditiva;
+- Visualização de dados;
+- Análise de dados;
+- Análise de negócios.
