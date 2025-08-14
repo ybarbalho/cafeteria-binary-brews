@@ -4,6 +4,7 @@
 
 - [Visão Geral](#visao-geral)
 - [Recursos Trabalhados](#recursos-trabalhados)
+- [Links](#links)
 
 ---
 
@@ -44,3 +45,10 @@ Mais do que um estudo de localização, este projeto mostra como **a análise de
 - Visualização de dados;
 - Análise de dados;
 - Análise de negócios.
+
+---
+
+<a id='links'></a>
+## Links
+
+<a href='https://drive.google.com/file/d/1q5UeDbHJREon1E3YTwx6pS1OdOxXUdwR/view?usp=sharing'>Apresentação do case de estudo</a>
