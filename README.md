@@ -51,4 +51,4 @@ Mais do que um estudo de localização, este projeto mostra como **a análise de
 <a id='links'></a>
 ## Links
 
-<a href='https://drive.google.com/file/d/1q5UeDbHJREon1E3YTwx6pS1OdOxXUdwR/view?usp=sharing'>Apresentação do case de estudo</a>
+<a href="https://drive.google.com/file/d/1q5UeDbHJREon1E3YTwx6pS1OdOxXUdwR/view?usp=sharing" target="_blank">Apresentação do case de estudo</a>
