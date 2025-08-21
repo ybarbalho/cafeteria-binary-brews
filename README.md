@@ -1,15 +1,15 @@
 # Cafeteria Binary Brews ♨️
 
-## Índice
+## 📑 Índice
 
-- [Visão Geral](#visao-geral)
-- [Recursos](#recursos)
-- [Links](#links)
+- 🔭 [Visão Geral](#visao-geral)
+- 🔧 [Recursos](#recursos)
+- 🔗 [Links](#links)
 
 ---
 
 <a id='visao-geral'></a>
-## Visão Geral
+## 🔭 Visão Geral
 
 ### Case de Análise: Onde abrir a cafeteria ideal em Los Angeles?
 
@@ -36,7 +36,7 @@ Mais do que um estudo de localização, este projeto mostra como **a análise de
 ---
 
 <a id='recursos'></a>
-## Recursos
+## 🔧 Recursos
 
 - Análise de dados nos negócios;
 - Inteligência de negócios (BI);
@@ -49,6 +49,6 @@ Mais do que um estudo de localização, este projeto mostra como **a análise de
 ---
 
 <a id='links'></a>
-## Links
+## 🔗 Links
 
 <a href="https://drive.google.com/file/d/1q5UeDbHJREon1E3YTwx6pS1OdOxXUdwR/view?usp=sharing" target="_blank">Apresentação do case de estudo</a>
